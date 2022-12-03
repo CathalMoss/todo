@@ -124,6 +124,7 @@ function addItemToDOM(text, completed) {
 
 
 /**
+ * POST REQUEST FROM APP
  * Method for sending to-do item to API
  * new xmlhtmlrequest 
  * open a post request
